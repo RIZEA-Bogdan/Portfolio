@@ -1,0 +1,13 @@
+- nom: Bts sio
+  etablissement: CaenSUP
+  debut: 2024
+  fin: 2026
+  lieu: caen
+  contenu: info
+- nom: Bac STI2D
+  etablissement: Dumont d'Urville
+  debut: 2021
+  fin: 2024
+  lieu: caen
+  contenu: ITEC/STI2D
+  

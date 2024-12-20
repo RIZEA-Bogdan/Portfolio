@@ -1,0 +1,28 @@
+.barre {
+    background: rgb(212, 255, 198);
+    height: 20px;
+
+    text-align: right;
+    color: rgb(0, 0, 0);
+    border-radius: 100px;
+}
+
+body{
+    background: linear-gradient(#b4b4b4, #b4b4b4);
+}
+
+h1{
+    font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+}
+ .container {
+    text-align: center;
+ }
+
+ .imagebvn {
+    display: inline-block;
+    width: 500px;
+ }
